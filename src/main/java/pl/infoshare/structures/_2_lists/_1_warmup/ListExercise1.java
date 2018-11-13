@@ -11,9 +11,10 @@ public class ListExercise1 {
     // TODO: Ćwiczenie 1 - API list
     // TODO: 1. Utwórz nową ArrayList przechowującą typy Person
     // TODO: 2. Utwórz cztery instancje klasy Person, dodaj je do listy
-    // TODO: 3. Usuń drugi element listy
-    // TODO: 4. Zamień miejscami pierwszy i ostatni element
-    // TODO: 5. Wypisz wszystkie pełnoletnie osoby
+    // TODO: 3. Wypisz na ekran drugi element
+    // TODO: 4. Usuń trzeci element z listy
+    // TODO: 5. Sprawdź rozmiar tablicy
+    // TODO: 6. Wypisz wszystkie pełnoletnie osoby
     public static void main(String[] args) {
         List<Person> persons = Arrays.asList(
                 new Person("Maciek", 26),
