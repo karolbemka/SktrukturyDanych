@@ -3,7 +3,7 @@ package pl.infoshare.structures._2_lists._1_warmup;
 public class ListExercise1 {
 
     // TODO: Ćwiczenie 1 - API list
-    // TODO: 1. Utwórz nową LinkedList przechowującą typy Person
+    // TODO: 1. Utwórz nową ArrayList przechowującą typy Person
     // TODO: 2. Utwórz cztery instancje klasy Person, dodaj je do listy
     // TODO: 3. Usuń drugi element listy
     // TODO: 4. Zamień miejscami pierwszy i ostatni element
