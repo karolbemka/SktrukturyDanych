@@ -25,6 +25,7 @@ public class ListExercise1 {
 
         System.out.println(persons.get(1));
         persons.remove(2);
+        System.out.println("List size: " + persons.size());
         for (Person person : persons) {
             if (person.getAge() >= 18) {
                 System.out.println(person);
