@@ -10,9 +10,6 @@ public class Exercise2 {
     // TODO: 4. Wyświetlić post z najmniejszą oraz największą liczbą wyświetleń
     // TODO: 5. 'Wyświetlić' wybrany post*
     // TODO: 6. Dodawać oraz usuwać tagi pod wybranym postem*
-
-
-
     public static void main(String[] args) {
 
     }

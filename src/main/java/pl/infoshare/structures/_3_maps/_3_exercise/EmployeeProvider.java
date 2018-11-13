@@ -1,4 +1,4 @@
-package pl.infoshare.structures._3_maps._4_exercise;
+package pl.infoshare.structures._3_maps._3_exercise;
 
 import java.util.Arrays;
 import java.util.List;

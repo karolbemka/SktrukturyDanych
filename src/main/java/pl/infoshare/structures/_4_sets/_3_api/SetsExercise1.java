@@ -1,4 +1,4 @@
-package pl.infoshare.structures._4_sets._3_exercise;
+package pl.infoshare.structures._4_sets._3_api;
 
 
 public class SetsExercise1 {

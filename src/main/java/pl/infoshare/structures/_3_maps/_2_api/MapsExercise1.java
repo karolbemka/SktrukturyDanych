@@ -1,4 +1,4 @@
-package pl.infoshare.structures._3_maps._3_exercise;
+package pl.infoshare.structures._3_maps._2_api;
 
 public class MapsExercise1 {
 
