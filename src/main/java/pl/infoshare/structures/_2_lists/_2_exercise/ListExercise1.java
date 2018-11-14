@@ -1,4 +1,4 @@
-package pl.infoshare.structures._2_lists._1_warmup;
+package pl.infoshare.structures._2_lists._2_exercise;
 
 import pl.infoshare.structures._1_pojo.Person;
 
@@ -13,7 +13,7 @@ public class ListExercise1 {
     // TODO: 2. Utwórz cztery instancje klasy Person, dodaj je do listy
     // TODO: 3. Wypisz na ekran drugi element
     // TODO: 4. Usuń trzeci element z listy
-    // TODO: 5. Sprawdź rozmiar tablicy
+    // TODO: 5. Sprawdź rozmiar
     // TODO: 6. Wypisz wszystkie pełnoletnie osoby
     public static void main(String[] args) {
         List<Person> persons = Arrays.asList(
