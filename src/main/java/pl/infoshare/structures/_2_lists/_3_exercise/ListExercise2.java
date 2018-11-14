@@ -1,4 +1,4 @@
-package pl.infoshare.structures._2_lists._4_exercise;
+package pl.infoshare.structures._2_lists._3_exercise;
 
 public class ListExercise2 {
 
