@@ -1,4 +1,4 @@
-package pl.infoshare.structures._2_lists._2_array;
+package pl.infoshare.structures._2_lists._1_array;
 
 import pl.infoshare.structures._1_pojo.Person;
 
@@ -6,10 +6,10 @@ import java.util.Arrays;
 
 
 // TODO: Zaimplementuj następujące metody
-// TODO: 1. Pobranie konkretnego elementu
-// TODO: 2. Sprawdzenie czy tablica jest pusta
-// TODO: 3. Pobranie ilości wszystkich elementów
-// TODO: 4. Sprawdzenie czy podany element istnieje
+// TODO: 1. Pobranie konkretnego elementu (get)
+// TODO: 2. Sprawdzenie czy tablica jest pusta (isEmpty)
+// TODO: 3. Pobranie ilości wszystkich elementów (size)
+// TODO: 4. Sprawdzenie czy podany element istnieje (exists)
 public class ArrayWrapper {
 
     private Person[] persons = new Person[]{};

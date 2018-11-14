@@ -16,5 +16,12 @@ public class ArrayExample {
         persons[2] = new Person("Anastazja", 23);
 
         System.out.println(persons[1]);
+
+        ArrayWrapper arrayWrapper = new ArrayWrapper();
+        arrayWrapper.add(new Person("Maciej", 26));
+        arrayWrapper.add(new Person("Anastazja", 23));
+        arrayWrapper.add(new Person("Mikołaj", 22));
+
+        System.out.println(arrayWrapper);
     }
 }
