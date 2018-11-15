@@ -34,4 +34,25 @@ public class ArrayWrapper {
                 "persons=" + Arrays.toString(persons) +
                 '}';
     }
+
+    public Person get(int index) {
+        return persons[index];
+    }
+
+    public boolean isEmpty() {
+        return persons.length == 0;
+    }
+
+    public int size(Person[] persons) {
+        return  persons.length;
+    }
+
+    public boolean exists(Person givenPerson) {
+        for (Person person : persons) {
+            if (person.equals(givenPerson)) {
+                return true;
+            }
+        }
+        return false;
+    }
 }

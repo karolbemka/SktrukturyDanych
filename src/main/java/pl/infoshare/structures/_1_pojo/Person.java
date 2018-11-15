@@ -1,6 +1,6 @@
 package pl.infoshare.structures._1_pojo;
 
-public class Person {
+public class Person implements Comparable<Person> {
 
     private int age;
     private String name;
@@ -25,4 +25,16 @@ public class Person {
                 ", name='" + name + '\'' +
                 '}';
     }
+
+
+    @Override
+    public int compareTo(Person o) {
+        if (age < o.getAge()) {
+            return 0;
+        }
+        if (age > o.getAge()) {
+            return 1;
+        }
+        return  0;
+        }
 }

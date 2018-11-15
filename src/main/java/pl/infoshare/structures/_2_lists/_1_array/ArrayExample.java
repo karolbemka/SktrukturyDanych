@@ -23,5 +23,7 @@ public class ArrayExample {
         arrayWrapper.add(new Person("Mikołaj", 22));
 
         System.out.println(arrayWrapper);
+
+        System.out.println(arrayWrapper.get(1));
     }
 }

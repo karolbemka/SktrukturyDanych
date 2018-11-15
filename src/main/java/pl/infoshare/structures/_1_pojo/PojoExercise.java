@@ -8,5 +8,7 @@ public class PojoExercise {
     public static void main(String[] args) {
         Person maciek = new Person("Maciek", 26);
         System.out.println(maciek);
+
+
     }
 }
